@@ -23,7 +23,7 @@ In this class, we will be learning about the GenAI and its applications.
 
 ## Assignments
 
-1. Assignment 1: Build custom tokenizer from scratch using nodejs
+1. `Assignment 1:` Build custom tokenizer from scratch using nodejs
 
    - Tokenizer type: character level, word level, sentence level, subword level
    - Build in: web, api, cli, or package
@@ -49,3 +49,38 @@ In this class, we will be learning about the GenAI and its applications.
 - [LLM Concept](https://llm-concept.vercel.app/)
 - [TikToken JS NPM](https://www.npmjs.com/package/js-tiktoken)
 - [OpenAI Embeddings Model Docs](https://platform.openai.com/docs/guides/embeddings)
+
+---
+
+# GenAI Class 2 - Cohort 1
+
+In this class, we will be learning about prompt engineering and its applications.
+
+## Topics covered
+
+1. what is GIGO?
+2. what is prompting?
+3. what are the prompting styles LLMs?
+   - ALPACA LLM prompt style
+   - INST LLM prompt style
+   - FLAN LLM prompt style
+   - CHAT LLM prompt style
+4. CHAT LLM implementation in nodejs
+   - what is cache token?
+   - what is stateless api?
+5. system prompting/message prompting (prompt engineering)
+6. types of system prompts engineering
+   - Zero shot prompting
+   - Few shot prompting
+   - Chain of thought prompting (CoT, Judgemental prompting)
+   - Self Consistency prompting
+   - Persona based prompting (personalization)
+
+## Assignments
+
+1. `Assignment 1:` Utilising LLM models build a persona instructed to respond as if it were Hitesh Choudhary & Piyush Garg to take reference tones dataset from their YouTube & Twitter
+
+## Blogs
+
+1. `Blog 1:` Systems prompts & prompting types
+2. `Blog 2:` Building thinking models using CoT(Chain of Thought)
