@@ -24,6 +24,7 @@ In this class, we will be learning about the GenAI and its applications.
 ## Assignments
 
 1. Assignment 1: Build custom tokenizer from scratch using nodejs
+
    Tokenizer type: character level, word level, sentence level, subword level
    Build in: web, api, cli, or package
 
