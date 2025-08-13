@@ -8,10 +8,10 @@ In this class, we will be learning about the GenAI and its applications.
 2. what is chatgpt?
 3. google article on "attention is all you need"
 4. what is transformer and how it pridicts the next word?
-5. how gpt output generates? internally
+5. how gpt output generates the next word?
 6. what are input tokens?
 7. what is input sequence?
-8. what is vocab and encoding & decoding, and AI model?
+8. what is vocab, encoding & decoding, and AI model?
 9. what is transformer architecture?
 10. what is tokenizer?
 11. what is input embedding?
@@ -41,3 +41,11 @@ In this class, we will be learning about the GenAI and its applications.
 - [Hashnode: Explain GPT to 5 years old kid](https://bcapathshala.hashnode.dev/explain-gpt-simply-for-kids)
 - [Hashnode: Explain vector embedding to your mom](https://bcapathshala.hashnode.dev/explain-vector-embeddings-to-your-mom)
 - [Hashnode: What is tokenizer to fresher](https://bcapathshala.hashnode.dev/what-is-tokenizer-explain-tokenization)
+
+## Resources
+
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762)
+- [TikTokenizer Vercel App](https://tiktokenizer.vercel.app/)
+- [LLM Concept](https://llm-concept.vercel.app/)
+- [TikToken JS NPM](https://www.npmjs.com/package/js-tiktoken)
+- [OpenAI Embeddings Model Docs](https://platform.openai.com/docs/guides/embeddings)
