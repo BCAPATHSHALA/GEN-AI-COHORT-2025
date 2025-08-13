@@ -11,7 +11,7 @@ In this class, we will be learning about the GenAI and its applications.
 5. how gpt output generates? internally
 6. what are input tokens?
 7. what is input sequence?
-8. what is vocab and encoding & decoding?
+8. what is vocab and encoding & decoding, and AI model?
 9. what is transformer architecture?
 10. what is tokenizer?
 11. what is input embedding?
