@@ -38,6 +38,8 @@ In this class, we will be learning about the GenAI and its applications.
 2. `Blog 2:` Explain vector embedding to your mom
 3. `Blog 3:` Explain tokenizer to fresher
 
+### Links to Blogs
+
 - [Hashnode: Explain GPT to 5 years old kid](https://bcapathshala.hashnode.dev/explain-gpt-simply-for-kids)
 - [Hashnode: Explain vector embedding to your mom](https://bcapathshala.hashnode.dev/explain-vector-embeddings-to-your-mom)
 - [Hashnode: What is tokenizer to fresher](https://bcapathshala.hashnode.dev/what-is-tokenizer-explain-tokenization)
@@ -58,9 +60,9 @@ In this class, we will be learning about prompt engineering and its applications
 
 ## Topics covered
 
-1. what is GIGO?
-2. what is prompting?
-3. what are the prompting styles LLMs?
+1. What is GIGO?
+2. What is prompting?
+3. What are the Prompting Styles in LLMs?
    - ALPACA LLM prompt style
    - INST LLM prompt style
    - FLAN LLM prompt style
@@ -68,8 +70,8 @@ In this class, we will be learning about prompt engineering and its applications
 4. CHAT LLM implementation in nodejs
    - what is cache token?
    - what is stateless api?
-5. system prompting/message prompting (prompt engineering)
-6. types of system prompts engineering
+5. System prompting/message prompting (prompt engineering)
+6. Types of system prompts engineering
    - Zero shot prompting
    - Few shot prompting
    - Chain of thought prompting (CoT, Judgemental prompting)
@@ -80,7 +82,16 @@ In this class, we will be learning about prompt engineering and its applications
 
 1. `Assignment 1:` Utilising LLM models build a persona instructed to respond as if it were Hitesh Choudhary & Piyush Garg to take reference tones dataset from their YouTube & Twitter
 
+### Code for Assignment 1
+
+📂 Repo: https://github.com/BCAPATHSHALA/PersonaAI
+
 ## Blogs
 
 1. `Blog 1:` Systems prompts & prompting types
 2. `Blog 2:` Building thinking models using CoT(Chain of Thought)
+
+### Links to Blogs
+
+- [Hashnode: Systems prompts & prompting types](https://bcapathshala.hashnode.dev/system-prompting-and-prompt-engineering-a-beginner-friendly-guide)
+- [Hashnode: Building thinking models using CoT(Chain of Thought)](https://bcapathshala.hashnode.dev/non-thinking-model-to-a-thinking-model)
