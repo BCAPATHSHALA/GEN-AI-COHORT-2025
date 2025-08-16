@@ -101,3 +101,51 @@ In this class, we will be learning about prompt engineering and its applications
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Prompting Guide for GPT-4](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
+
+---
+
+# GenAI Class 3 - Cohort 1
+
+In this class, we will be learning about building AI Agents.
+
+## Topics covered
+
+1. What is AI Agent?
+2. What is difference between AI Agent and LLM?
+3. What is agentic workflow?
+4. What is tools/functions in AI Agent?
+5. How to build tools/functions in AI Agent?
+6. How to build AI Agent?
+
+## Assignments
+
+1. `Assignment 1:` Build a ChaiCode AI Agent CLI
+
+Create a CLI tool that can clone any given website locally and make it functional offline:
+
+- User provides a website URL
+- CLI clones the entire site locally using React or plain HTML/CSS/JS
+- Rewrite all code and links so it works fully offline
+
+Websites that you can clone for this task:
+
+- piyushgarg.dev
+- google.com
+- hitesh.ai
+- VS Code landing page
+
+## Blogs
+
+1. `Blog 1:` Write an article about the concept of Agentic AI, explaining what agents are, how they work and the role of tools on Hashnode
+
+2. `Blog 2:` Research work for exploring agentic workflows
+
+### Links to Blogs
+
+- [Agentic AI - A practical guide for Node.js developers](https://bcapathshala.hashnode.dev/agentic-ai-a-practical-guide-for-nodejs-developers)
+
+## Industry Issues
+
+1. What is AWS bedrock & why it is important?
+2. What is latency problem in realtime AI Voice Assistant/Agent/Chatbot. And how to solve it?
+3. What is DDoS Attack & how to prevent it?
