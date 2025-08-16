@@ -95,3 +95,9 @@ In this class, we will be learning about prompt engineering and its applications
 
 - [Hashnode: Systems prompts & prompting types](https://bcapathshala.hashnode.dev/system-prompting-and-prompt-engineering-a-beginner-friendly-guide)
 - [Hashnode: Building thinking models using CoT(Chain of Thought)](https://bcapathshala.hashnode.dev/non-thinking-model-to-a-thinking-model)
+
+## Resources
+
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+- [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Prompting Guide for GPT-4](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
