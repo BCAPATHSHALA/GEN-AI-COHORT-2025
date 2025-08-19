@@ -152,3 +152,9 @@ Websites that you can clone for this task:
 1. What is AWS bedrock & why it is important?
 2. What is latency problem in realtime AI Voice Assistant/Agent/Chatbot. And how to solve it?
 3. What is DDoS Attack & how to prevent it?
+
+## Products Idia as SaaS based on AI Agents 🎯
+
+1. AI Agent Website cloner (CLI tool + API + UI)
+
+   "Take a website URL and ask 5 questions from user on same URI and change the whole code according to the answers"
