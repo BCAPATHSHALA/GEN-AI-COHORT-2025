@@ -134,17 +134,20 @@ Websites that you can clone for this task:
 - hitesh.ai
 - VS Code landing page
 
+### Code for Assignment 1
+
+📂 Repo: https://github.com/BCAPATHSHALA/chaicodeclitool
+
 ## Blogs
 
 1. `Blog 1:` Write an article about the concept of Agentic AI, explaining what agents are, how they work and the role of tools on Hashnode
-
-2. `Blog 2:` Research work for exploring agentic workflows
+2. `Blog 2:` Research work for exploring agentic workflows 🎯
 
 ### Links to Blogs
 
 - [Agentic AI - A practical guide for Node.js developers](https://bcapathshala.hashnode.dev/agentic-ai-a-practical-guide-for-nodejs-developers)
 
-## Industry Issues
+## Industry Issues 🎯
 
 1. What is AWS bedrock & why it is important?
 2. What is latency problem in realtime AI Voice Assistant/Agent/Chatbot. And how to solve it?
