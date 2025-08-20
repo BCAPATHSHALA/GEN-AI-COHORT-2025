@@ -66,3 +66,13 @@ Build a small RAG (Retrieval Augmented Generation) application to be used on a w
 - [Retrieval Augmented Generation (RAG)](https://bcapathshala.hashnode.dev/practical-guide-to-retrival-augmented-generation-from-scratch)
 
 ## What are the Business Problems & How RAGs can help (Make more money) 🎯
+
+## Resources
+
+- [LangChain RAG](https://js.langchain.com/docs/tutorials/rag/)
+- [7 Practical Applications of RAG Models](https://hyperight.com/7-practical-applications-of-rag-models-and-their-impact-on-society/)
+- [RAG with MCP](https://www.analyticsvidhya.com/blog/2025/06/rag-with-mcp/)
+- [Building a Cost Efficient RAG Application](https://ambilio.com/building-a-cost-efficient-rag-application-a-guide-for-enterprises/)
+- [Enhance Your RAG Applications with Knowledge Graph](https://www.singlestore.com/blog/enhance-your-rag-applications-with-knowledge-graph-rag/)
+- [Tools for RAG Applications](https://www.analyticsvidhya.com/blog/2024/10/tools-for-rag-applications/)
+- [A Practical Guide to Building Local RAG Applications with LangChain](https://machinelearningmastery.com/a-practical-guide-to-building-local-rag-applications-with-langchain/)
