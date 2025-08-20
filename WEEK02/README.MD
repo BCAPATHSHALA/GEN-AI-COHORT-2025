@@ -52,6 +52,10 @@ Build a small RAG (Retrieval Augmented Generation) application to be used on a w
 - Chat window to ask queries from the stored data
 - App should support both File upload and Website input as data sources.
 
+### Code for Assignment 1
+
+📂 Repo: https://github.com/BCAPATHSHALA/RAGApplication
+
 ## Blogs
 
 1. `Blog 1:` Write an article about Retrieval Augmented Generation (RAG) on Hashnode
