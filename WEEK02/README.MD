@@ -67,6 +67,15 @@ Build a small RAG (Retrieval Augmented Generation) application to be used on a w
 
 ## What are the Business Problems & How RAGs can help (Make more money) 🎯
 
+You should research the business problems and take analysis of these given RAGs websites and make a list of the business problems and how RAGs can help.
+
+1. https://sitegpt.ai
+2. https://www.kapa.ai
+3. https://notebooklm.google
+4. https://www.chatpdf.com
+5. https://www.chatpdf.com
+6. https://askyourpdf.com
+
 ## Resources
 
 - [LangChain RAG](https://js.langchain.com/docs/tutorials/rag/)
