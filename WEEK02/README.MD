@@ -59,7 +59,7 @@ Build a small RAG (Retrieval Augmented Generation) application to be used on a w
 ## Blogs
 
 1. `Blog 1:` Write an article about Retrieval Augmented Generation (RAG) on Hashnode
-2. `Blog + Research:` Where RAGs Fail?
+2. `Blog + Research:` Where RAGs Fail? 🎯
 
 ### Links to Blogs
 
@@ -85,3 +85,49 @@ You should research the business problems and take analysis of these given RAGs 
 - [Enhance Your RAG Applications with Knowledge Graph](https://www.singlestore.com/blog/enhance-your-rag-applications-with-knowledge-graph-rag/)
 - [Tools for RAG Applications](https://www.analyticsvidhya.com/blog/2024/10/tools-for-rag-applications/)
 - [A Practical Guide to Building Local RAG Applications with LangChain](https://machinelearningmastery.com/a-practical-guide-to-building-local-rag-applications-with-langchain/)
+
+# GenAI Class 5 - Cohort 1
+
+In this class, we will be learning about RAG Pipeline - System Design.
+
+## Topics covered
+
+System Design of RAGs (Production-Ready)
+
+1. Basic RAG flow: query → retrieve → generate answer
+2. Why improve RAG: accuracy, speed, cost, scalability issues in real use
+3. Query rewriting / translation: make queries clearer for better search
+4. CRAG (Corrective RAG): fix poor retrieval automatically
+5. Ranking: order retrieved docs so best ones go to LLM
+6. HyDE: generate a hypothetical answer first, then use it to find real docs
+
+## Assignments (Optional)
+
+1. `Assignment 1:` Build a production ready RAG application 🎯
+
+## Blogs
+
+1. `Blog 1:` [System Design of RAGs Pipeline?](https://bcapathshala.hashnode.dev/system-design-of-rags-pipeline)
+
+## Resources
+
+- https://arxiv.org/html/2401.05856v1
+- https://www.merge.dev/blog/rag-challenges
+- https://digitaloneagency.com.au/best-vector-database-for-rag-in-2025-pinecone-vs-weaviate-vs-qdrant-vs-milvus-vs-chroma
+- https://arxiv.org/html/2405.07437v2
+- https://aws.amazon.com/blogs/machine-learning/detect-hallucinations-for-rag-based-systems
+- https://www.pinecone.io/learn/retrieval-augmented-generation/?utm_source=chatgpt.com
+- https://zerogravitymarketing.com/blog/the-science-behind-rag
+- https://www.mindee.com/blog/rag-hallucinations-explained
+- https://www.scoutos.com/blog/how-to-reduce-ai-hallucinations-with-rag
+- https://machinelearningmastery.com/understanding-rag-part-viii-mitigating-hallucinations-in-rag
+- https://www.gsdvs.com/post/how-retrieval-augmented-generation-can-reduce-hallucinations
+- https://arxiv.org/abs/2404.08189
+- https://coralogix.com/ai-blog/rags-are-not-the-solution-for-ai-hallucinations
+- https://blog.curiosity.ai/%EF%B8%8F-why-your-rag-system-is-failing-and-how-to-fix-it-7fe66780a335
+- https://www.marktechpost.com/2024/08/18/the-challenges-of-implementing-retrieval-augmented-generation-rag-in-production
+- https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval
+- https://www.patronus.ai/llm-testing/rag-evaluation-metrics
+- https://xenoss.io/blog/vector-database-comparison-pinecone-qdrant-weaviate
+- https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval
+- https://www.ibm.com/think/insights/rag-problems-five-ways-to-fix
