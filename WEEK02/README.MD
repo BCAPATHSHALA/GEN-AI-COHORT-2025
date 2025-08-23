@@ -131,3 +131,36 @@ System Design of RAGs (Production-Ready)
 - https://xenoss.io/blog/vector-database-comparison-pinecone-qdrant-weaviate
 - https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval
 - https://www.ibm.com/think/insights/rag-problems-five-ways-to-fix
+
+# GenAI Class 6 - Cohort 1
+
+In this class, we will be learning about introduction to LangGraph.
+
+## Topics covered
+
+1. What is LangGraph?
+2. Why LangGraph is used?
+3. How LangGraph works?
+4. What is Agentic SDK?
+5. Why Agentic SDK is used?
+6. How Agentic SDK works?
+7. What is the difference between LangGraph and Agentic SDK?
+8. Which one to use from LangGraph and Agentic SDK?
+9. OpenAI Agentic SDK, OpenAI Function Tool, & Vercel AI Agentic SDK
+10. What are autonomous and procesures flows?
+11. What is LangSmith and OpenAI Agentic Tracing?
+
+## Assignments (Optional)
+
+1. `Assignment 1:` Use LangGraph to build a AI Agent 🎯
+
+## Blogs (Optional)
+
+1. `Blog 1:` Write an article about each topic that you have covered in this class 🎯
+
+## Resources
+
+1. https://ai-sdk.dev
+2. https://platform.openai.com/docs/guides/function-calling
+3. https://openai.github.io/openai-agents-python/tracing/
+4. https://community.openai.com
