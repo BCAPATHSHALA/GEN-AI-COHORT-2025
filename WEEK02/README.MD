@@ -117,7 +117,7 @@ System Design of RAGs (Production-Ready)
 - https://digitaloneagency.com.au/best-vector-database-for-rag-in-2025-pinecone-vs-weaviate-vs-qdrant-vs-milvus-vs-chroma
 - https://arxiv.org/html/2405.07437v2
 - https://aws.amazon.com/blogs/machine-learning/detect-hallucinations-for-rag-based-systems
-- https://www.pinecone.io/learn/retrieval-augmented-generation/?utm_source=chatgpt.com
+- https://www.pinecone.io/learn/retrieval-augmented-generation
 - https://zerogravitymarketing.com/blog/the-science-behind-rag
 - https://www.mindee.com/blog/rag-hallucinations-explained
 - https://www.scoutos.com/blog/how-to-reduce-ai-hallucinations-with-rag
@@ -165,3 +165,4 @@ In this class, we will be learning about introduction to LangGraph.
 2. https://platform.openai.com/docs/guides/function-calling
 3. https://openai.github.io/openai-agents-python/tracing/
 4. https://community.openai.com
+5. https://creator.voiceflow.com (business model)
