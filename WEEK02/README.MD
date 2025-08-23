@@ -64,6 +64,7 @@ Build a small RAG (Retrieval Augmented Generation) application to be used on a w
 ### Links to Blogs
 
 - [Retrieval Augmented Generation (RAG)](https://bcapathshala.hashnode.dev/practical-guide-to-retrival-augmented-generation-from-scratch)
+- [Where RAGs Fail?](https://bcapathshala.hashnode.dev/where-rags-fail-a-beginner-friendly-guide-to-reliable-rag)
 
 ## What are the Business Problems & How RAGs can help (Make more money) 🎯
 
