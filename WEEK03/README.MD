@@ -56,6 +56,10 @@ In this class, we will be learning about OpenAI Agents SDK
     Code Quality – Clean, structured and easy to understand
     Demo Clarity – Clear video showing end-to-end working
 
+### Code for Assignment 1
+
+📂 Repo: https://github.com/BCAPATHSHALA/AI-BROWSER-AUTOMATION-TOOL
+
 ## Blogs (Optional)
 
 1. `Blog 1:` Mastering OpenAI Agents SDK: Build Agentic AI Workflows (with LangGraph Comparison)
@@ -78,3 +82,4 @@ In this class, we will be learning about OpenAI Agents SDK
 12. https://getstream.io/ (APIs and SDKs to Build In-App Chat Video & Feeds Faster.)
 13. https://www.tavily.com/ (Connect Your Agent to the Web)
 14. https://playwright.dev/ (browser automation framework)
+
