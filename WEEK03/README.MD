@@ -83,3 +83,49 @@ In this class, we will be learning about OpenAI Agents SDK
 13. https://www.tavily.com/ (Connect Your Agent to the Web)
 14. https://playwright.dev/ (browser automation framework)
 
+# GenAI Class 8 - Cohort 1
+
+In this class, we will be learning about Threads & Tracing in OpenAI Agents SDK
+
+## Topics covered
+
+1. How does run menthod in OpenAI Agents SDK work?
+2. Handsoff RECOMMENDED PROMPT PREFIX in OpenAI Agents SDK?
+3. Threads(check points) in OpenAI Agents SDK?
+   - How to pass histrory back to the agent?
+4. Gaurdrails(firewall/AI Regex) in OpenAI Agents SDK?
+   - Input & Output Gaurdrails
+   - How does it work?
+   - guardrails.ai
+   - What is PII(Personally Identifiable Information) & CII(Credit/Identity Information)?
+   - What is tripwire in AI?
+5. Human in the loop (for voice agents) in OpenAI Agents SDK?
+6. Tracing in LangSmith & OpenAI Agents SDK?
+7. Extension of Agent SDK for calling twilio API & connecting with other SDKs
+8. Reacap of all course done from class 1 to class 8 (01:15 HH:MM)
+9. Project Idea - Y Combinator Startups (01:33 HH:MM)
+
+## Assignments (Optional)
+
+1. `Assignment 1:` Practice Threads and Gaurdrails in OpenAI Agents SDK 🎯
+
+## Blogs (Optional)
+
+1. `Blog 1:` Write an article about each topic that you have covered in this class 🎯
+
+## Resources
+
+1. https://www.guardrailsai.com/
+2. https://platform.openai.com/docs/api-reference/threads
+3. https://openai.github.io/openai-agents-js/guides/guardrails/
+4. https://openai.github.io/openai-agents-js/guides/human-in-the-loop/
+5. https://openai.github.io/openai-agents-js/guides/tracing/
+6. https://openai.github.io/openai-agents-js/extensions/ai-sdk/
+7. https://huggingface.co/
+8. https://google.github.io/adk-docs/
+9. https://ai-sdk.dev/docs/ai-sdk-core/overview
+10. https://vercel.com/docs/ai-gateway/getting-started
+11. https://ollama.com/search
+12. https://elevenlabs.io/docs/quickstart
+
+
