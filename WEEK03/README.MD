@@ -138,15 +138,29 @@ In this class, we will be learning about Memory in OpenAI Agents SDK (most impor
 
 ## Topics covered
 
-(RE-watch this video)
-https://github.com/piyushgarg-dev/genai-js-1.0/tree/chore/model-changes
+1. What is mem0ai?
+2. What is stateless and statefull api calls?
+3. What is cached Token?
+4. What is messages history?
+5. What is the window context?
+6. What problem solved by memory in ai agents?
+7. How many types of memory in ai agent?
+   - Short term memory
+   - Long term memory - Factual memory - Episodic memory - Semantic memory
+8. Industry problem with memory that is (kab konsi aur kitni memory use karni chaiye in AI agents?)
 
 ## Assignments (Optional)
 
 1. `Assignment 1:` Practice Memory in OpenAI Agents SDK 🎯
+
+#### 📂 Repo: https://github.com/BCAPATHSHALA/GENAI-PRACTICE/tree/main/memory-npm
 
 ## Blogs (Optional)
 
 1. `Blog 1:` Write an article about each topic that you have covered in this class 🎯
 
 ## Resources
+
+1. https://docs.mem0.ai/open-source/node-quickstart#complete-configuration-example
+2. https://mem0.ai
+3. https://github.com/mem0ai/mem0/blob/main/mem0/configs/prompts.py
