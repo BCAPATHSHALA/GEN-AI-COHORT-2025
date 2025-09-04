@@ -115,7 +115,7 @@ In this class, we will be learning about Threads & Tracing in OpenAI Agents SDK
 
 1. `Blog 1:` Write an article about each topic that you have covered in this class 🎯
 
-#### 📑 https://excalidraw.com/#json=IqWco3FQISfTB2aWFGy2o,VKQHCZjxCQCgu31gA0Z9Uw
+#### 📑 https://excalidraw.com
 
 ## Resources
 
@@ -131,3 +131,22 @@ In this class, we will be learning about Threads & Tracing in OpenAI Agents SDK
 10. https://vercel.com/docs/ai-gateway/getting-started
 11. https://ollama.com/search
 12. https://elevenlabs.io/docs/quickstart
+
+# GenAI Class 9 - Cohort 1
+
+In this class, we will be learning about Memory in OpenAI Agents SDK (most important topic)
+
+## Topics covered
+
+(RE-watch this video)
+https://github.com/piyushgarg-dev/genai-js-1.0/tree/chore/model-changes
+
+## Assignments (Optional)
+
+1. `Assignment 1:` Practice Memory in OpenAI Agents SDK 🎯
+
+## Blogs (Optional)
+
+1. `Blog 1:` Write an article about each topic that you have covered in this class 🎯
+
+## Resources
