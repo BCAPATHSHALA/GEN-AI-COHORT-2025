@@ -92,11 +92,11 @@ In this class, we will be learning about Threads & Tracing in OpenAI Agents SDK
 1. How does run menthod in OpenAI Agents SDK work?
 2. Handsoff RECOMMENDED PROMPT PREFIX in OpenAI Agents SDK?
 3. Threads(check points) in OpenAI Agents SDK?
-   - How to pass histrory back to the agent?
-4. Gaurdrails(firewall/AI Regex) in OpenAI Agents SDK?
-   - Input & Output Gaurdrails
-   - How does it work?
-   - guardrails.ai
+   - How to pass history back to the agent?
+4. Guardrails(firewall/AI Regex) in OpenAI Agents SDK?
+   - Input & Output Guardrails
+   - How does Guardrails work?
+   - Guardrails.ai (website)
    - What is PII(Personally Identifiable Information) & CII(Credit/Identity Information)?
    - What is tripwire in AI?
 5. Human in the loop (for voice agents) in OpenAI Agents SDK?
@@ -109,9 +109,13 @@ In this class, we will be learning about Threads & Tracing in OpenAI Agents SDK
 
 1. `Assignment 1:` Practice Threads and Gaurdrails in OpenAI Agents SDK 🎯
 
+#### 📂 Repo: https://github.com/BCAPATHSHALA/GENAI-PRACTICE/tree/main/threads-guard
+
 ## Blogs (Optional)
 
 1. `Blog 1:` Write an article about each topic that you have covered in this class 🎯
+
+#### 📑 https://excalidraw.com/#json=IqWco3FQISfTB2aWFGy2o,VKQHCZjxCQCgu31gA0Z9Uw
 
 ## Resources
 
@@ -127,5 +131,3 @@ In this class, we will be learning about Threads & Tracing in OpenAI Agents SDK
 10. https://vercel.com/docs/ai-gateway/getting-started
 11. https://ollama.com/search
 12. https://elevenlabs.io/docs/quickstart
-
-
