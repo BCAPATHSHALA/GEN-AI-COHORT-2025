@@ -164,3 +164,4 @@ In this class, we will be learning about Memory in OpenAI Agents SDK (most impor
 1. https://docs.mem0.ai/open-source/node-quickstart#complete-configuration-example
 2. https://mem0.ai
 3. https://github.com/mem0ai/mem0/blob/main/mem0/configs/prompts.py
+4. https://mem0.ai/blog/memory-in-agents-what-why-and-how (**important blog**)
