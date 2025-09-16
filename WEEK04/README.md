@@ -68,3 +68,49 @@ In this class, we will be learning about conversational voice agents
 ## Resources
 
 1. https://openai.github.io/openai-agents-js/guides/voice-agents/quickstart/
+
+# GenAI Class 12 - Cohort 1
+
+In this class, we will be learning about MCP (Model Context Protocol)
+
+## Topics covered
+
+1. What is internet and OSI model?
+2. What are the network, router, switch, ISP, packet, server, and cell/wifi tower?
+3. Why do we need network protocols?
+4. Which role of each OSI model's layers?
+5. What is the role of each protocol?
+6. What are the websocket and webRTC protocols?
+
+---
+
+7. What is Model Context Protocol (MCP)?
+8. What are the MCP components?
+9. How does MCP work?
+10. Why use MCP instead of traditional APIs?
+11. When to use MCP?
+12. When are traditional APIs better?​
+13. MCP implimentation using Node.js
+
+## Assignments (Optional)
+
+1. `Assignment 1:` Practice MCP 🎯
+
+📂 
+
+## Blogs (Optional)
+
+1. `Blog 1:` Write an article about each topic that you have covered in this class 🎯
+
+## Resources
+
+- https://blog.bytebytego.com/p/network-protocols-run-the-internet
+- https://www.workato.com/the-connector/what-is-mcp/
+- https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/
+- https://pieces.app/blog/inside-mcp-server-implementation
+- https://www.dailydoseofds.com/p/hands-on-building-an-mcp-server/
+- https://snyk.io/articles/what-is-mcp-in-ai-everything-you-wanted-to-ask/
+- https://www.civo.com/blog/what-is-mcp
+- https://medium.com/@the_manoj_desai/model-context-protocol-mcp-clearly-explained-7b94e692001c
+- https://github.com/thinq-connect/thinqconnect-mcp
+- https://www.youtube.com/watch?v=bWFWeolDGcM
