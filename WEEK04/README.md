@@ -96,7 +96,7 @@ In this class, we will be learning about MCP (Model Context Protocol)
 
 1. `Assignment 1:` Practice MCP 🎯
 
-📂 
+📂 https://github.com/BCAPATHSHALA/GENAI-PRACTICE/tree/main/mcp
 
 ## Blogs (Optional)
 
@@ -104,6 +104,8 @@ In this class, we will be learning about MCP (Model Context Protocol)
 
 ## Resources
 
+- https://openai.github.io/openai-agents-js/guides/mcp/
+- https://modelcontextprotocol.io/docs/getting-started/intro
 - https://blog.bytebytego.com/p/network-protocols-run-the-internet
 - https://www.workato.com/the-connector/what-is-mcp/
 - https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/
@@ -114,3 +116,5 @@ In this class, we will be learning about MCP (Model Context Protocol)
 - https://medium.com/@the_manoj_desai/model-context-protocol-mcp-clearly-explained-7b94e692001c
 - https://github.com/thinq-connect/thinqconnect-mcp
 - https://www.youtube.com/watch?v=bWFWeolDGcM
+- https://modelcontextprotocol.io/docs/develop/build-server#node
+- https://modelcontextprotocol.io/docs/develop/build-client#node
