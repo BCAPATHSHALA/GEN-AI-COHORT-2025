@@ -118,3 +118,46 @@ In this class, we will be learning about MCP (Model Context Protocol)
 - https://www.youtube.com/watch?v=bWFWeolDGcM
 - https://modelcontextprotocol.io/docs/develop/build-server#node
 - https://modelcontextprotocol.io/docs/develop/build-client#node
+
+# GenAI Class 13 - Cohort 1
+
+In this class, we will be learning about AWS
+
+## Topics covered
+
+1. System Design on RAGs
+2. What is deployment
+3. Important ways of deployment
+   - Zero downtime deployment
+   - Blue green deployment
+   - Rolling updates deployment
+4. How does AWS deployment work
+   - EC2 machine
+   - Public IP
+   - Security group
+   - Outbound rules
+   - Inbound rules
+   - Http port 80
+   - Ssh port 22
+   - NACL(Network Access Control List)
+   - Load balancer
+   - Horizontal scaling
+5. Create EC2 instance & connect it to PC using SSH key
+6. ECR and ECS in AWS
+
+## Assignments (Optional)
+
+1. `Assignment 1:` Practice to deployment on AWS EC2 🎯
+
+## Blogs (Optional)
+
+1. `Blog 1:` Write an article about each topic that you have covered in this class 🎯
+
+## Resources
+
+- https://www.youtube.com/@AsliEngineering
+- https://www.youtube.com/playlist?list=PLinedj3B30sDc2woh6XncR9_a310zaAyJ
+- https://github.com/aasthas2022/SDE-Interview-and-Prep-Roadmap
+- https://www.snapdeal.com/product/system-design-interview-books-volume/624864626979
+- https://www.amazon.in/-/hi/Alex-Xu-ebook/dp/B08B3FWYBX
+- https://blog.kubesimplify.com/cicd-pipeline-github-actions-with-aws-ecs
